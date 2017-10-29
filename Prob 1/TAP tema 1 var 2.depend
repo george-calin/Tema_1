@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507990959 source:c:\users\george\desktop\tap tema 1 var 2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<list>
+	<algorithm>
+
